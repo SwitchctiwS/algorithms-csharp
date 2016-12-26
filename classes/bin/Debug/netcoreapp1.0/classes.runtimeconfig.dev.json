@@ -1,0 +1,7 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/jared_thibault/.nuget/packages"
+    ]
+  }
+}
